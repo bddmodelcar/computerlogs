@@ -10,7 +10,7 @@ while read -r line; do
 done <<< "$PIDS"
 
 # Print GPU Statistics
-nvidia-smi > $LOGDATE
+nvidia-smi >> $LOGDATE
 nvidia-smi -q -d UTILIZATION >> $LOGDATE
 
 # Push to GitHub
