@@ -1,7 +1,7 @@
 #!/bin/bash
 DIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )"
 LOGDATE=$(date +%Y-%m[%b]-%d_%H:%M:%S)
-SOURCE="$DIR/$LOGDATE.md"
+LOGDATE="$DIR/$LOGDATE.md"
 
 # cd /home/sauhaarda/working-directory/computerlogs/bdd5 # insert path here
 
