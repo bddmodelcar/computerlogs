@@ -1,6 +1,8 @@
 #!/bin/bash
 DIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )"
-LOGDATE=$(date +%Y-%m[%b]-%d_%H:%M:%S)".md"
+LOGDATE=$(date +%Y-%m[%b]-%d_%H:%M:%S)
+SOURCE="$DIR/$LOGDATE.md"
+
 # cd /home/sauhaarda/working-directory/computerlogs/bdd5 # insert path here
 
 echo "# GPU Process top Output" >> $LOGDATE
@@ -17,10 +19,6 @@ echo "\`\`\`" >> $LOGDATE
 echo "# NVIDIA SMI Output" >> $LOGDATE
 echo "\`\`\`" >> $LOGDATE
 nvidia-smi >> $LOGDATE
-echo "\`\`\`" >> $LOGDATE
-echo "# Detailed GPU Statistics" >> $LOGDATE
-echo "\`\`\`" >> $LOGDATE
-nvidia-smi -q -d UTILIZATION >> $LOGDATE
 echo "\`\`\`" >> $LOGDATE
 
 # Push to GitHub
