@@ -70,3 +70,16 @@ error: Error building trees
 [master 966a839] automated commit
  2 files changed, 37 insertions(+)
  create mode 100644 bdd5/2017-08[Aug]-15_08:05:01.md
+[master c6988a3] automated commit
+ 2 files changed, 37 insertions(+)
+ create mode 100644 bdd5/2017-08[Aug]-15_08:17:01.md
+On branch master
+Your branch is ahead of 'origin/master' by 1 commit.
+  (use "git push" to publish your local commits)
+Changes not staged for commit:
+	modified:   test
+
+Untracked files:
+	2017-08[Aug]-15_09:05:01.md
+
+no changes added to commit
