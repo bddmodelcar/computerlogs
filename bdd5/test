@@ -57,3 +57,7 @@ no changes added to commit
 error: insufficient permission for adding an object to repository database .git/objects
 error: insufficient permission for adding an object to repository database .git/objects
 error: Error building trees
+[master 3e1cbdb] automated commit
+ 3 files changed, 75 insertions(+)
+ create mode 100644 bdd5/2017-08[Aug]-15_06:05:01.md
+ create mode 100644 bdd5/2017-08[Aug]-15_06:17:01.md
