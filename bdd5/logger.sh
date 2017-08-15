@@ -26,4 +26,3 @@ cd $DIR
 git pull
 git add -A
 git commit -m "automated commit" >> test 2>&1
-git push origin master >> test 2>&1
