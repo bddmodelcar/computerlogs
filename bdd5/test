@@ -1,0 +1,8 @@
+error: insufficient permission for adding an object to repository database .git/objects
+error: insufficient permission for adding an object to repository database .git/objects
+error: Error building trees
+To git@github.com:bddmodelcar/computerlogs
+   7680b14..60d5d02  master -> master
+error: insufficient permission for adding an object to repository database .git/objects
+fatal: failed to write commit object
+Everything up-to-date
