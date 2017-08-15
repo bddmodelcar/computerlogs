@@ -1,4 +1,5 @@
 #!/bin/bash
+source /home/sauhaarda/.bashrc
 DIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )"
 LOGDATE=$(date +%Y-%m[%b]-%d_%H:%M:%S)
 LOGDATE="$DIR/$LOGDATE.md"
@@ -25,4 +26,4 @@ echo "\`\`\`" >> $LOGDATE
 git pull
 git add -A
 git commit -m "automated commit"
-git push
+git push https://sauhaardac:Raunak123@github.com/bddmodelcar/computerlogs.git master
