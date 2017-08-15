@@ -25,4 +25,3 @@ echo "\`\`\`" >> $LOGDATE
 git pull
 git add -A
 git commit -m "automated commit"
-git push
