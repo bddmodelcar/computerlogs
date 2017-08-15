@@ -50,3 +50,10 @@ Untracked files:
 	2017-08[Aug]-15_05:05:01.md
 
 no changes added to commit
+[master e3f9525] automated commit
+ 3 files changed, 81 insertions(+)
+ create mode 100644 bdd5/2017-08[Aug]-15_05:05:01.md
+ create mode 100644 bdd5/2017-08[Aug]-15_05:17:01.md
+error: insufficient permission for adding an object to repository database .git/objects
+error: insufficient permission for adding an object to repository database .git/objects
+error: Error building trees
