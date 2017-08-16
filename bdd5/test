@@ -10,3 +10,233 @@
 [master c1687f8] automated commit
  2 files changed, 37 insertions(+)
  create mode 100644 bdd5/2017-08[Aug]-14_23:12:01.md
+[master 89f9b49] automated commit
+ 1 file changed, 34 insertions(+)
+ create mode 100644 bdd5/2017-08[Aug]-15_00:05:01.md
+[master 11c6895] automated commit
+ 2 files changed, 37 insertions(+)
+ create mode 100644 bdd5/2017-08[Aug]-15_00:17:01.md
+[master 93c2ec0] automated commit
+ 2 files changed, 37 insertions(+)
+ create mode 100644 bdd5/2017-08[Aug]-15_01:05:01.md
+[master 3929dda] automated commit
+ 2 files changed, 37 insertions(+)
+ create mode 100644 bdd5/2017-08[Aug]-15_01:17:01.md
+[master c726f54] automated commit
+ 2 files changed, 37 insertions(+)
+ create mode 100644 bdd5/2017-08[Aug]-15_02:05:01.md
+[master b904365] automated commit
+ 2 files changed, 37 insertions(+)
+ create mode 100644 bdd5/2017-08[Aug]-15_02:17:01.md
+[master 43ff6f0] automated commit
+ 2 files changed, 37 insertions(+)
+ create mode 100644 bdd5/2017-08[Aug]-15_03:05:01.md
+[master 42076d3] automated commit
+ 2 files changed, 37 insertions(+)
+ create mode 100644 bdd5/2017-08[Aug]-15_03:17:01.md
+[master d138cef] automated commit
+ 2 files changed, 37 insertions(+)
+ create mode 100644 bdd5/2017-08[Aug]-15_04:05:01.md
+[master 3b8d281] automated commit
+ 2 files changed, 37 insertions(+)
+ create mode 100644 bdd5/2017-08[Aug]-15_04:17:01.md
+On branch master
+Your branch is ahead of 'origin/master' by 1 commit.
+  (use "git push" to publish your local commits)
+Changes not staged for commit:
+	modified:   test
+
+Untracked files:
+	2017-08[Aug]-15_05:05:01.md
+
+no changes added to commit
+[master e3f9525] automated commit
+ 3 files changed, 81 insertions(+)
+ create mode 100644 bdd5/2017-08[Aug]-15_05:05:01.md
+ create mode 100644 bdd5/2017-08[Aug]-15_05:17:01.md
+error: insufficient permission for adding an object to repository database .git/objects
+error: insufficient permission for adding an object to repository database .git/objects
+error: Error building trees
+[master 3e1cbdb] automated commit
+ 3 files changed, 75 insertions(+)
+ create mode 100644 bdd5/2017-08[Aug]-15_06:05:01.md
+ create mode 100644 bdd5/2017-08[Aug]-15_06:17:01.md
+[master 98392a2] automated commit
+ 2 files changed, 38 insertions(+)
+ create mode 100644 bdd5/2017-08[Aug]-15_07:05:01.md
+[master 2b421f3] automated commit
+ 2 files changed, 37 insertions(+)
+ create mode 100644 bdd5/2017-08[Aug]-15_07:17:01.md
+[master 966a839] automated commit
+ 2 files changed, 37 insertions(+)
+ create mode 100644 bdd5/2017-08[Aug]-15_08:05:01.md
+[master c6988a3] automated commit
+ 2 files changed, 37 insertions(+)
+ create mode 100644 bdd5/2017-08[Aug]-15_08:17:01.md
+On branch master
+Your branch is ahead of 'origin/master' by 1 commit.
+  (use "git push" to publish your local commits)
+Changes not staged for commit:
+	modified:   test
+
+Untracked files:
+	2017-08[Aug]-15_09:05:01.md
+
+no changes added to commit
+[master cec0ac7] automated commit
+ 3 files changed, 81 insertions(+)
+ create mode 100644 bdd5/2017-08[Aug]-15_09:05:01.md
+ create mode 100644 bdd5/2017-08[Aug]-15_09:17:01.md
+On branch master
+Your branch is ahead of 'origin/master' by 2 commits.
+  (use "git push" to publish your local commits)
+Changes not staged for commit:
+	modified:   test
+
+Untracked files:
+	2017-08[Aug]-15_10:05:01.md
+
+no changes added to commit
+[master 50b1ac2] automated commit
+ 3 files changed, 82 insertions(+)
+ create mode 100644 bdd5/2017-08[Aug]-15_10:05:01.md
+ create mode 100644 bdd5/2017-08[Aug]-15_10:17:01.md
+error: insufficient permission for adding an object to repository database .git/objects
+error: insufficient permission for adding an object to repository database .git/objects
+error: Error building trees
+[master b645abc] automated commit
+ 3 files changed, 75 insertions(+)
+ create mode 100644 bdd5/2017-08[Aug]-15_11:05:01.md
+ create mode 100644 bdd5/2017-08[Aug]-15_11:17:01.md
+On branch master
+Your branch is ahead of 'origin/master' by 4 commits.
+  (use "git push" to publish your local commits)
+Changes not staged for commit:
+	modified:   test
+
+Untracked files:
+	2017-08[Aug]-15_12:05:01.md
+
+no changes added to commit
+[master 7881957] automated commit
+ 3 files changed, 82 insertions(+)
+ create mode 100644 bdd5/2017-08[Aug]-15_12:05:01.md
+ create mode 100644 bdd5/2017-08[Aug]-15_12:17:01.md
+[master e7296f7] automated commit
+ 2 files changed, 38 insertions(+)
+ create mode 100644 bdd5/2017-08[Aug]-15_13:05:01.md
+[master 4b8c598] automated commit
+ 2 files changed, 37 insertions(+)
+ create mode 100644 bdd5/2017-08[Aug]-15_13:17:01.md
+On branch master
+Your branch is ahead of 'origin/master' by 1 commit.
+  (use "git push" to publish your local commits)
+Changes not staged for commit:
+	modified:   test
+
+Untracked files:
+	2017-08[Aug]-15_14:05:01.md
+
+no changes added to commit
+[master 9823cf5] automated commit
+ 3 files changed, 73 insertions(+)
+ create mode 100644 bdd5/2017-08[Aug]-15_14:05:01.md
+ create mode 100644 bdd5/2017-08[Aug]-15_14:17:01.md
+On branch master
+Your branch is ahead of 'origin/master' by 2 commits.
+  (use "git push" to publish your local commits)
+Changes not staged for commit:
+	modified:   test
+
+Untracked files:
+	2017-08[Aug]-15_15:05:01.md
+
+no changes added to commit
+[master 2b44240] automated commit
+ 3 files changed, 74 insertions(+)
+ create mode 100644 bdd5/2017-08[Aug]-15_15:05:01.md
+ create mode 100644 bdd5/2017-08[Aug]-15_15:17:01.md
+On branch master
+Your branch is ahead of 'origin/master' by 3 commits.
+  (use "git push" to publish your local commits)
+Changes not staged for commit:
+	modified:   test
+
+Untracked files:
+	2017-08[Aug]-15_16:05:01.md
+
+no changes added to commit
+[master 99fc90c] automated commit
+ 3 files changed, 82 insertions(+)
+ create mode 100644 bdd5/2017-08[Aug]-15_16:05:01.md
+ create mode 100644 bdd5/2017-08[Aug]-15_16:17:01.md
+On branch master
+Your branch is ahead of 'origin/master' by 4 commits.
+  (use "git push" to publish your local commits)
+Changes not staged for commit:
+	modified:   test
+
+Untracked files:
+	2017-08[Aug]-15_17:05:01.md
+
+no changes added to commit
+[master ade092f] automated commit
+ 3 files changed, 78 insertions(+)
+ create mode 100644 bdd5/2017-08[Aug]-15_17:05:01.md
+ create mode 100644 bdd5/2017-08[Aug]-15_17:17:01.md
+On branch master
+Your branch is ahead of 'origin/master' by 5 commits.
+  (use "git push" to publish your local commits)
+Changes not staged for commit:
+	modified:   test
+
+Untracked files:
+	2017-08[Aug]-15_18:05:01.md
+
+no changes added to commit
+[master 4b64b15] automated commit
+ 3 files changed, 74 insertions(+)
+ create mode 100644 bdd5/2017-08[Aug]-15_18:05:01.md
+ create mode 100644 bdd5/2017-08[Aug]-15_18:17:01.md
+On branch master
+Your branch is ahead of 'origin/master' by 6 commits.
+  (use "git push" to publish your local commits)
+Changes not staged for commit:
+	modified:   test
+
+Untracked files:
+	2017-08[Aug]-15_19:05:01.md
+
+no changes added to commit
+[master 6c4ad81] automated commit
+ 3 files changed, 78 insertions(+)
+ create mode 100644 bdd5/2017-08[Aug]-15_19:05:01.md
+ create mode 100644 bdd5/2017-08[Aug]-15_19:17:01.md
+On branch master
+Your branch is ahead of 'origin/master' by 7 commits.
+  (use "git push" to publish your local commits)
+Changes not staged for commit:
+	modified:   test
+
+Untracked files:
+	2017-08[Aug]-15_20:05:01.md
+
+no changes added to commit
+[master 1bb5603] automated commit
+ 3 files changed, 78 insertions(+)
+ create mode 100644 bdd5/2017-08[Aug]-15_20:05:01.md
+ create mode 100644 bdd5/2017-08[Aug]-15_20:17:01.md
+On branch master
+Your branch is ahead of 'origin/master' by 8 commits.
+  (use "git push" to publish your local commits)
+Changes not staged for commit:
+	modified:   test
+
+Untracked files:
+	2017-08[Aug]-15_21:05:01.md
+
+no changes added to commit
+[master e1b6b61] automated commit
+ 3 files changed, 78 insertions(+)
+ create mode 100644 bdd5/2017-08[Aug]-15_21:05:01.md
+ create mode 100644 bdd5/2017-08[Aug]-15_21:17:01.md
