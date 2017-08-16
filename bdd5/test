@@ -194,3 +194,17 @@ Untracked files:
 	2017-08[Aug]-15_18:05:01.md
 
 no changes added to commit
+[master 4b64b15] automated commit
+ 3 files changed, 74 insertions(+)
+ create mode 100644 bdd5/2017-08[Aug]-15_18:05:01.md
+ create mode 100644 bdd5/2017-08[Aug]-15_18:17:01.md
+On branch master
+Your branch is ahead of 'origin/master' by 6 commits.
+  (use "git push" to publish your local commits)
+Changes not staged for commit:
+	modified:   test
+
+Untracked files:
+	2017-08[Aug]-15_19:05:01.md
+
+no changes added to commit
