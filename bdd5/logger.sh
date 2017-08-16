@@ -25,4 +25,4 @@ cd $DIR
 # Push to GitHub
 git pull
 git add -A
-git commit -m "automated commit" >> test 2>&1
+git commit -m "automated commit"
